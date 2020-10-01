@@ -12,7 +12,7 @@
 <!-- Node1 -->
 <g id="node1" class="node">
 <title>Node1</title>
-<g id="a_node1"><a xlink:title=" ">
+<g id="a_node1"><a xlink:title="Main function.">
 <polygon fill="#bfbfbf" stroke="black" points="0,-93.5 0,-112.5 38,-112.5 38,-93.5 0,-93.5"/>
 <text text-anchor="middle" x="19" y="-100.5" font-family="Helvetica,sans-Serif" font-size="10.00">main</text>
 </a>
@@ -21,7 +21,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="../../dd/d4e/heap__using__priority__queue_8cpp.html#aa8dca7b867074164d5f45b0f3851269d" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="../../dd/d4e/heap__using__priority__queue_8cpp.html#aa8dca7b867074164d5f45b0f3851269d" target="_top" xlink:title="Test implementations.">
 <polygon fill="white" stroke="black" points="74,-93.5 74,-112.5 107,-112.5 107,-93.5 74,-93.5"/>
 <text text-anchor="middle" x="90.5" y="-100.5" font-family="Helvetica,sans-Serif" font-size="10.00">test</text>
 </a>

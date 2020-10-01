@@ -1,6 +1,6 @@
 <map id="main" name="main">
-<area shape="rect" id="node1" title=" " alt="" coords="5,130,56,157"/>
-<area shape="rect" id="node2" href="$dd/d4e/heap__using__priority__queue_8cpp.html#aa8dca7b867074164d5f45b0f3851269d" title=" " alt="" coords="104,130,148,157"/>
+<area shape="rect" id="node1" title="Main function." alt="" coords="5,130,56,157"/>
+<area shape="rect" id="node2" href="$dd/d4e/heap__using__priority__queue_8cpp.html#aa8dca7b867074164d5f45b0f3851269d" title="Test implementations." alt="" coords="104,130,148,157"/>
 <area shape="rect" id="node3" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/priority_queue/empty.html#" title=" " alt="" coords="211,5,340,47"/>
 <area shape="rect" id="node4" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/priority_queue/pop.html#" title=" " alt="" coords="196,71,355,98"/>
 <area shape="rect" id="node5" href="/Users/runner/work/C-Plus-Plus/C-Plus-Plus/doc/cppreference-doxygen-web.tag.xml$cpp/container/priority_queue/push.html#" title=" " alt="" coords="211,123,340,164"/>
