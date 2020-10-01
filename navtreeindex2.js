@@ -178,8 +178,8 @@ var NAVTREEINDEX2 =
 "d6/dd8/is__graph__bipartite_8cpp.html":[8,0,5,5],
 "d6/dd8/is__graph__bipartite_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[8,0,5,5,2],
 "d6/dd8/is__graph__bipartite_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,5,5,1],
-"d7/d00/list__array_8cpp.html":[8,0,2,7],
-"d7/d00/list__array_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,2,7,1],
+"d7/d00/list__array_8cpp.html":[8,0,2,8],
+"d7/d00/list__array_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,2,8,1],
 "d7/d1e/graph_2dijkstra_8cpp.html":[8,0,5,3],
 "d7/d1e/graph_2dijkstra_8cpp.html#a330a2b0a904f01802ada1f8f3b28e76c":[8,0,5,3,4],
 "d7/d1e/graph_2dijkstra_8cpp.html#a454891267187a5ec6c6e3f3ad5203ff1":[8,0,5,3,0],
@@ -247,7 +247,7 @@ var NAVTREEINDEX2 =
 "d7/d7c/classstatistics_1_1stats__computer1.html#ab5b4bfecdf391cae7edb1fe98548b846":[7,0,10,0,4],
 "d7/d7c/classstatistics_1_1stats__computer1.html#af57e942d49f4fd70f059f224b4ac07e1":[7,0,10,0,2],
 "d7/d7f/section.html":[3],
-"d7/d83/trie__tree_8cpp.html":[8,0,2,13],
-"d7/d83/trie__tree_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[8,0,2,13,2],
-"d7/d83/trie__tree_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,2,13,1]
+"d7/d83/trie__tree_8cpp.html":[8,0,2,14],
+"d7/d83/trie__tree_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[8,0,2,14,2],
+"d7/d83/trie__tree_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,2,14,1]
 };
